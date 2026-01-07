@@ -420,9 +420,9 @@ class SchwarzschildGeodesicsPresentation(Scene):
         self.wait(2)
 
 ```
-<video controls autoplay muted loop poster="thumbnail.jpg">
-  <source src="vidios_gifs/SchwarzschildGeodesicsPresentation.mp4" type="video/mp4">
-</video>
+## Demo
+
+https://github.com/user-attachments/assets/31a29b26-fa07-4e96-8860-b657d8702289
 
         
 
