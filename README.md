@@ -24,10 +24,8 @@ This repository contains animations and visualizations of various physics topics
 
 **Demo:**
 
-![Spacetime Deformation Star](https://github.com/user-attachments/assets/f480ce53-9b55-4725-9176-7928b5601a72
+https://github.com/user-attachments/assets/f480ce53-9b55-4725-9176-7928b5601a72
 
-
-)
 
 **Physical Concepts:**
 - Einstein's General Relativity
