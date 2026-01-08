@@ -4,10 +4,10 @@
 
 Las ecuaciones que describen las geodésicas tipo tiempo en el espacio-tiempo de Schwarzschild se pueden expresar en términos de parámetros orbitales. Para órbitas ligadas, tenemos:
 
-$$ \left\{ \begin{matrix}
+\[ \left\{ \begin{matrix}
  Afelio &  u=(1-e) / l , \quad \chi=\pi\\
  Perihelio&  u=(1+e) / l, \quad \chi=0 \\
-\end{matrix}\right. $$
+\end{matrix}\right. \]
 
 
 
