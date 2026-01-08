@@ -127,6 +127,10 @@ class CampoRotacional2D(Scene):
 
         self.wait(2)
 ```
+## DEMO
+
+
+https://github.com/user-attachments/assets/b3df539c-a588-4585-98c6-8a08a2383baf
 
 ``` python
 class CampoRotacionalNoUniforme(Scene):
@@ -241,6 +245,9 @@ class CampoRotacionalNoUniforme(Scene):
 
         self.wait(2)
 ```
+https://github.com/user-attachments/assets/bdeed90a-f996-4ab8-870a-7280a52f4935
+
+
 
 ``` python
 class CampoDivergenteRotacional(Scene):
@@ -335,6 +342,8 @@ class CampoDivergenteRotacional(Scene):
 
         self.wait(2)
 ```
+https://github.com/user-attachments/assets/99c07205-d3c3-4e64-8bd1-05509bc67f48
+
 
 ---
 
